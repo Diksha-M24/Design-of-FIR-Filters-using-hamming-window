@@ -45,9 +45,11 @@ grid on;
 ```
 
 # OUTPUT
+
 <img width="765" height="550" alt="Screenshot 2025-10-13 161842" src="https://github.com/user-attachments/assets/e42ef122-6173-4993-8ca4-c80d4c6f4c94" />
 
 # RESULT
+
 Thus, the High Pass FIR Digital Filter was successfully designed and implemented using the Hamming Window method in SCILAB. The impulse and magnitude responses were obtained and verified.
 
 
